@@ -1,2 +1,3 @@
-# beep-for-unity
-A library to play beep in unity
+# BeepForUnity
+## 使い方
+空のGameObjectにAudioSourceコンポーネントとBeepScriptをアタッチして、BeepScriptのPlayメソッドを呼び出すだけ
